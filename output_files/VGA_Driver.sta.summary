@@ -1,0 +1,37 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow Model Setup 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 2.828
+TNS   : 0.000
+
+Type  : Slow Model Hold 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 0.629
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 3.518
+TNS   : 0.000
+
+Type  : Slow Model Minimum Pulse Width 'CLOCK_27'
+Slack : 18.518
+TNS   : 0.000
+
+Type  : Fast Model Setup 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 6.741
+TNS   : 0.000
+
+Type  : Fast Model Hold 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 0.243
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'my_vga_driver|u0|pll|sd1|pll|clk[0]'
+Slack : 3.629
+TNS   : 0.000
+
+Type  : Fast Model Minimum Pulse Width 'CLOCK_27'
+Slack : 18.518
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,8 @@
+	component PLL is
+		port (
+			clock_27_clk    : in  std_logic := 'X'; -- clk
+			pixel_clock_clk : out std_logic;        -- clk
+			reset_reset     : in  std_logic := 'X'  -- reset
+		);
+	end component PLL;
+
